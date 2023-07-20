@@ -19,7 +19,6 @@ The Clone Website project is an educational exercise that involves creating a fu
 
 The Clone Website project aims to replicate the following features of the original website:
 
-- Responsive design: The cloned website will be designed to adapt to different screen sizes and devices.
 - Navigation: Recreating the navigation structure, menus, and links present in the original website.
 - Layout and styling: Replicating the overall look and feel of the original website, including fonts, colors, and visual elements.
 - Dynamic elements: Implementing any interactive components, animations, or dynamic content present on the original website.
